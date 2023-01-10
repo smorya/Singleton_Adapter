@@ -8,7 +8,7 @@ public interface Client {
 
     LocalDate getLastActiveTime();
 
-    void signup(String nastia25);
+    void signup(String user);
 
     enum Country {
         Ukraine, USA, Poland;

@@ -2,11 +2,11 @@ package org.example.task3;
 
 public abstract class БазаДаних {
     public String отриматиДаніКористувача() {
-        return "hello";
+        return "completed";
     }
 
     public String отриматиСтатистичніДані() {
-        return "hello2";
+        return "completed statistical";
     }
 
 }
